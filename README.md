@@ -1,1 +1,1 @@
-# basic_connection_spl_python_home
+פרוייקט קטן סוף שבוע בדיקת שליטה בחיבור spl to python
